@@ -8,8 +8,8 @@ The script lets you to download Steam Game Servers (using SteamCMD) for Linux wi
 Info
 =========================
 The script will run the following and install the needed attributes for the SteamCMD to operate:<br>
-<i> sudo dpkg --add-architecture i386 </i><br>
-<i> sudo apt-get install lib32gcc1 </i><br>
+<code> sudo dpkg --add-architecture i386 </code> <br>
+<code>sudo apt-get install lib32gcc1 </code><br>
 
 The script is in a BETA release and might have some bugs! Report bugs or give any suggestion to maxym.maxymenko@gmail.com
 
