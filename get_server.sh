@@ -1,16 +1,16 @@
 #!/bin/sh
 
 #########################################################################################
-#	The Script is by Max Maxymenko for www.MakeGameServer.com						                	#
-#	Facebook: https://www.facebook.com/MakeGameServer							                    		#
-#	The script is currently in a Beta testing, expect some bugs!						              #
-#	  Found bug? Please email me at: admin@makegameserver.com and tell about it!	       	#
-#																				                                            		#   
-#		------------------------------------------------------------------------	        	#
-#																			                                            			#   
-#	To get and run this script, login into your linux server and type the following:    	#
-#	wget -O- http://web.makegameserver.com/downloads/linux_files/get_server.sh | sh     	#																		#
-#																				                                             		#
+#	The Script is by Max Maxymenko for www.MakeGameServer.com	              	#
+#	Facebook: https://www.facebook.com/MakeGameServer	               		#
+#	The script is currently in a Beta testing, expect some bugs                     #
+#	  Found bug? Please email me at: admin@makegameserver.com and tell about it! 	#
+#				                                            		#   
+#	------------------------------------------------------------------------	#
+#			                                            			#   
+#	To get and run this script, login into your linux server and type the following:#
+#	wget -O- http://web.makegameserver.com/downloads/linux_files/get_server.sh | sh #																		#
+#									 		#
 #########################################################################################
 
 clear
@@ -250,8 +250,6 @@ cd ~/$install_dir/
 ##############################################################
 
 
-
-
 #Counter Strike Source 
 #./srcds_run -game cstrike -autoupdate +map de_dust2 +port 27015  +maxplayers 16 +max_fps 600 -tickrate 1000 -steam_dir /home/$USER/ -steamcmd_script /home/$USER/updater/$install_dir.txt -debug
 
@@ -272,8 +270,6 @@ cd ~/$install_dir/
 #./srcds -game csgo -console -usercon +game_type 1 +game_mode 1 +mapgroup mg_demolition +map de_lake
 ### Mod: Deathmatch:
 #./srcds -game csgo -console -usercon +game_type 1 +game_mode 2 +mapgroup mg_allclassic +map de_dust
-
-
 
 " > ~/start_$install_dir.sh 
 $done
