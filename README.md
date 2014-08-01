@@ -1,7 +1,7 @@
 Automated SteamCMD Script (BETA)
 =========================
 
-<b><a href="#Info">Info</a> | <a href="#Screenshots">Screenshots</a> | <a href="#Installation">Installation</a> | <a href="#Support">Support</a> | <a href="#ps">Author's Message</a></b>
+<h3><a href="#Info">Info</a> | <a href="#Screenshots">Screenshots</a> | <a href="#Installation">Installation</a> | <a href="#Support">Support</a> | <a href="#ps">Author's Message</a></h3>
 
 The script lets you to download Steam Game Servers (using SteamCMD) for Linux without the need to know any commands!<br>
 
@@ -17,11 +17,11 @@ The script is in a BETA release and might have some bugs! Report bugs or give an
 <a name="Screenshots"></a>
 Screenshots
 =========================
-<img src="http://img.f-i-h.info/automated-steamcmd-script/1.png" width="auto" height="auto" >
-<img src="http://img.f-i-h.info/automated-steamcmd-script/2.png" width="auto" height="auto" >
-<img src="http://img.f-i-h.info/automated-steamcmd-script/3.png" width="auto" height="auto" >
-<img src="http://img.f-i-h.info/automated-steamcmd-script/4.png" width="auto" height="auto" >
-<img src="http://img.f-i-h.info/automated-steamcmd-script/5.png" width="auto" height="auto" >
+<img src="http://img.f-i-h.info/automated-steamcmd-script/1.png" width="500px" height="auto" >
+<img src="http://img.f-i-h.info/automated-steamcmd-script/2.png" width="500px" height="auto" >
+<img src="http://img.f-i-h.info/automated-steamcmd-script/3.png" width="500px" height="auto" >
+<img src="http://img.f-i-h.info/automated-steamcmd-script/4.png" width="500px" height="auto" >
+<img src="http://img.f-i-h.info/automated-steamcmd-script/5.png" width="500px" height="auto" >
 
 <a name="Installation"></a>
 Installation
