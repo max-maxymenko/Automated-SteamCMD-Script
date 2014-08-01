@@ -12,7 +12,8 @@ The script will run the following and install the needed attributes for the Stea
 <code> sudo dpkg --add-architecture i386 </code> <br>
 <code>sudo apt-get install lib32gcc1 </code><br>
 
-The script is in a BETA release and might have some bugs! Report bugs or give any suggestion to maxym.maxymenko@gmail.com
+The script is in a BETA release and might have some bugs!<br>
+Report bugs or give any suggestion to maxym.maxymenko@gmail.com
 
 <a name="Screenshots"></a>
 Screenshots
