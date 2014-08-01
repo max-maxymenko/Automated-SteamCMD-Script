@@ -1,3 +1,4 @@
+<a name="top"></a>
 Automated SteamCMD Script (BETA)
 =========================
 
@@ -37,3 +38,7 @@ I've only tested the script on Ubuntu 11.04 and Ubuntu 14.04, but it should run 
 -------------------------------------------------------------------------------------------------------------------------
 <a name="ps"></a>
 <b>PS:</b> This is my first-ever script for Linux OS, please be kind and let me know if there is something that I need to change or add!
+
+-------------------------------------------------------------------------------------------------------------------------
+
+<a href="#top">Back to top ^</a>
