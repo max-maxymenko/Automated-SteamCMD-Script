@@ -1,5 +1,4 @@
-<a name="top"></a>
-Automated SteamCMD Script (BETA)
+Automated SteamCMD Script (BETA)<a name="top"></a>
 =========================
 
 <h3><a href="#Info">Info</a> | <a href="#Screenshots">Screenshots</a> | <a href="#Installation">Installation</a> | <a href="#Support">Support</a> | <a href="#ps">Author's Message</a></h3>
