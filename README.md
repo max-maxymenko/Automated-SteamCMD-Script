@@ -5,6 +5,7 @@ Automated-SteamCMD-Script (BETA)
 
 The script lets you to download Steam Game Servers (using SteamCMD) for Linux without the need to know any commands!<br>
 
+<a name="Info"></a>
 Info
 =========================
 The script will run the following and install the needed attributes for the SteamCMD to operate:<br>
