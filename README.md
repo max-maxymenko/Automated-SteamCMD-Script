@@ -28,7 +28,8 @@ Screenshots
 Installation
 =========================
 Download using GitHub or use the following <code>wget</code> command:<br>
-<code> wget http://web.makegameserver.com/downloads/linux_files/get_server.sh </code>
+<code> wget http://web.makegameserver.com/downloads/linux_files/get_server.sh</code><br>
+<code> sh get_server.sh</code>
 
 <a name="Support"></a>
 Support
