@@ -1,4 +1,4 @@
-Automated SteamCMD Scrip (BETA)
+Automated SteamCMD Script (BETA)
 =========================
 
 <b><a href="#Info">Info</a> | <a href="#Screenshots">Screenshots</a> | <a href="#Installation">Installation</a> | <a href="#Support">Support</a> | <a href="#ps">Author's Message</a></b>
