@@ -9,7 +9,7 @@ The script lets you to download Steam Game Servers (using SteamCMD) for Linux wi
 Info
 =========================
 The script will run the following and install the needed attributes for the SteamCMD to operate:<br>
-<code>sudo dpkg --add-architecture i386 </code> <br>
+<code> sudo dpkg --add-architecture i386 </code> <br>
 <code>sudo apt-get install lib32gcc1 </code><br>
 
 The script is in a BETA release and might have some bugs!<br>
@@ -28,8 +28,8 @@ Screenshots
 Installation
 =========================
 Download using GitHub or use the following <code>wget</code> command:<br>
-<code>wget http://web.makegameserver.com/downloads/linux_files/get_server.sh</code><br>
-<code>sh get_server.sh</code>
+<code> wget http://web.makegameserver.com/downloads/linux_files/get_server.sh</code><br>
+<code> sh get_server.sh</code>
 
 <a name="Support"></a>
 Support
