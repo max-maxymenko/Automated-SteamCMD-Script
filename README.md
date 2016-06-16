@@ -18,11 +18,11 @@ Report bugs or give any suggestion to maxym.maxymenko@gmail.com
 <a name="Screenshots"></a>
 Screenshots
 =========================
-<img src="http://img.f-i-h.info/automated-steamcmd-script/1.png" width="500px" height="auto" >
-<img src="http://img.f-i-h.info/automated-steamcmd-script/2.png" width="500px" height="auto" >
-<img src="http://img.f-i-h.info/automated-steamcmd-script/3.png" width="500px" height="auto" >
-<img src="http://img.f-i-h.info/automated-steamcmd-script/4.png" width="500px" height="auto" >
-<img src="http://img.f-i-h.info/automated-steamcmd-script/5.png" width="500px" height="auto" >
+<img src="https://drop.maxymenko.com/-/automated-steamcmd-script/1.png" width="500px" height="auto" >
+<img src="https://drop.maxymenko.com/-/automated-steamcmd-script/2.png" width="500px" height="auto" >
+<img src="https://drop.maxymenko.com/-/automated-steamcmd-script/3.png" width="500px" height="auto" >
+<img src="https://drop.maxymenko.com/-/automated-steamcmd-script/4.png" width="500px" height="auto" >
+<img src="https://drop.maxymenko.com/-/automated-steamcmd-script/5.png" width="500px" height="auto" >
 
 <a name="Installation"></a>
 Installation
@@ -34,7 +34,7 @@ Download using GitHub or use the following <code>wget</code> command:<br>
 <a name="Support"></a>
 Support
 =========================
-I've only tested the script on Ubuntu 11.04 and Ubuntu 14.04, but it should run on any latest releases of linux.
+I've only tested the script on Ubuntu 11.04, Ubuntu 14.04 and  Ubuntu 16.04, but it should run on any latest releases of linux.
 
 -------------------------------------------------------------------------------------------------------------------------
 <a name="ps"></a>
